@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "start": "nodemon --exec \"npx tsc\" -e ts --watch ./src"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19",
+    "typescript": "^4.7.4"
+  }
+}
